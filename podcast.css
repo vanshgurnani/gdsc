@@ -39,6 +39,29 @@
   footer{
     background: #262626;
   }
+  .boxed-spotify{
+    background-color:#454545 ;
+    border-radius: 20px;
+    width: 50%;
+  }
+  .boxed-spotify img{
+    margin: 20px;
+  }
+  .boxed-spotify h1{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+
+  }
+  .spotify-btn{
+    width: 274px;
+    height: 59px;
+    left: 537px;
+    border-radius: 50px;
+
+  }
   @media (max-width: 767.98px) {
     .footer-content .col {
       flex: 0 0 100%;
